@@ -18,7 +18,7 @@ Ultimate lyrics app for macOS.
 
 ### Manual (.dmg)
 
-[![download on the Mac App Store](docs/img/MAS_badge.svg)](https://github.com/wolteh/LyricsX/releases/latest)
+[![download on the Mac App Store](docs/img/MAS_badge.svg)](https://github.com/wolteh/LyricsX/releases/download/v1.0/LyricsX.zip)
 
 ### Requirements
 
